@@ -1,0 +1,10 @@
+.box{
+    position: absolute;
+width: 984px;
+height: 190px;
+left: 289px;
+top: 237px;
+
+background: #131313;
+border-radius: 15px;
+}
